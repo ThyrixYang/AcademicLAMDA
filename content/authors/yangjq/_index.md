@@ -18,7 +18,7 @@ organizations:
   url: http://www.lamda.nju.edu.cn/MainPage.ashx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include graph learning and recommender systems.
 
 # Interests to show in About widget
 interests:
