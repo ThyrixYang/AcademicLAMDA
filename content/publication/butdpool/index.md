@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining
-publication_short: PAKDD’20
+publication_short: In PAKDD'20
 
 abstract: Pooling layers are crucial components for efficient deep representation learning. As to graph data, however, it’s not trivial to decide which nodes to retain in order to represent the high-level structure of a graph. Recently many different graph pooling methods have been proposed. However, they all rely on local features to conduct global pooling over all nodes, which contradicts poolings in CNNs that only use local features to conduct local pooling. We analyze why this may hinder the performance of graph pooling, then propose a novel graph pooling method called Bottom-Up and Top-Down graph POOLing (BUTDPool). BUTDPool aims to learn a more fine-grained pooling criterion based on coarse global structure information produced by a bottom-up pooling layer, and can enhance local features with global features. Specifically, we propose to use one or multiple pooling layers with a relatively high retain ratio to produce a coarse high-level graph. Injecting the high-level information back into low-level representation, BUTDPool enhances learning a better pooling criterion. Experiments demonstrate the superior performance of the proposed method over compared method
 # Summary. An optional shortened abstract.
