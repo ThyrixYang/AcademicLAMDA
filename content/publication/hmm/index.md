@@ -6,7 +6,7 @@ title: "Corporate Relative Valuation using Heterogeneous Multi-Modal Graph Neura
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Yang Yang
-- Jia-Qi Yang
+- yangjq
 - Ran Bao
 - De-Chuan Zhan
 - Hengshu Zhu

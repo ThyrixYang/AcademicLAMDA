@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiq-Qi Yang
+title: Jiq-Qi Yang (杨嘉祺)
 
 # Is this the primary user of the site?
 superuser: true

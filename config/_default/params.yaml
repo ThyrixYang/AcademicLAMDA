@@ -22,17 +22,17 @@ twitter: ''
 
 email: yangjq@lamda.nju.edu.cn
 # phone: 888 888 88 88
-# address:
-#   street: 450 Serra Mall
-#   city: Stanford
-#   region: CA
-#   postcode: '94305'
-#   country: United States
-#   country_code: US
+address:
+  street: Qixia
+  city: Nanjing
+  region: Jiangsu
+  postcode: '210023'
+  country: China
+  country_code: CN
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: A201, Yi Fu Building, Nanjing University Xianlin Campus
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
@@ -145,8 +145,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
+  google_analytics: 'UA-124245092-1'
+  google_tag_manager: 'UA-124245092-1'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''

@@ -5,7 +5,7 @@ title: "Capturing Delayed Feedback in Conversion Rate Prediction via Elapsed-Tim
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jia-Qi Yang
+- yangjq
 - Xiang Li
 - Shuguang Han
 - Tao Zhuang
