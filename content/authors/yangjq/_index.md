@@ -32,10 +32,10 @@ education:
   - course: PhD. Candidate in Computer Science and Technology
     institution: Nanjing University
     year: 2021-now
-  - course: M.Eng. in Computer Science and Technology
+  - course: MEng. in Computer Science and Technology
     institution: Nanjing University
     year: 2018-2021
-  - course: B.Eng. in Electrical Engineering and its Automation
+  - course: BEng. in Electrical Engineering and its Automation
     institution: Wuhan University
     year: 2018
 
