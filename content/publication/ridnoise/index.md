@@ -38,7 +38,7 @@ featured: false
 # - name: ppt
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'none'
 url_code: ''
 url_dataset: ''
 url_poster: ''
