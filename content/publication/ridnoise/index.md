@@ -14,7 +14,7 @@ date: "2022-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,17 +28,20 @@ publication_short: In AAAI'22
 
 abstract: From an engineering perspective, a design should not only perform well in an ideal condition, but should also resist noises. Such a design methodology, namely robust design, has been widely implemented in the industry for product quality control. However, classic robust design requires a lot of evaluations for a single design target, while the results of these evaluations could not be reused for a new target. To achieve data-efficient robust design, we propose Robust Inverse Design under Noise (RID-Noise), which can utilize existing data to train a conditional invertible neural network. Specifically, we estimate the robustness of a design parameter by its predictability, measured by the prediction error of a forward neural network. We also define a sample-wise weight, which can be used in the maximum weighted likelihood estimation of an inverse model based on a conditional invertible neural network. With the visual results from experiments, we clearly justify how RID-Noise works by learning the distribution and robustness from data. Further experiments on several real-world benchmark tasks with noises confirm that our method is more effective than other state-of-the-art inverse design methods.
 
+
+summary: From an engineering perspective, a design should not only perform well in an ideal condition, but should also resist noises. Such a design methodology, namely robust design, has been widely implemented in the industry for product quality control. To achieve data-efficient robust design, we propose Robust Inverse Design under Noise (RID-Noise), which can utilize existing data to train a conditional invertible neural network. With the visual results from experiments, we clearly justify how RID-Noise works by learning the distribution and robustness from data. Further experiments on several real-world benchmark tasks with noises confirm that our method is more effective than other state-of-the-art inverse design methods.
+
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: ppt
 #   url: http://example.org
 
-url_pdf: 'none'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
