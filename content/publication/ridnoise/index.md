@@ -41,8 +41,8 @@ featured: true
 # - name: ppt
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2112.03912'
+url_code: 'https://github.com/ThyrixYang/rid-noise-aaai22'
 url_dataset: ''
 url_poster: ''
 url_project: ''

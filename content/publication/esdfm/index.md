@@ -52,9 +52,9 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2012.03245.pdf'
 url_code: 'https://github.com/ThyrixYang/es_dfm'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://gitlab.com/thyrix/public_assets/-/blob/master/esdfm/esdfm_poster_share.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'https://gitlab.com/thyrix/public_assets/-/blob/master/esdfm/esdfm_ppt.pdf'
 url_source: ''
 url_video: ''
 
