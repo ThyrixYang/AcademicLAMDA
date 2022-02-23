@@ -27,9 +27,11 @@ Advanced C++ Programming. Fall, 2018.
 
 [Digital Signal Processing](https://www.lamda.nju.edu.cn/yehj/dsp2021/). Fall, 2021.
 
-# Competitions
+# Awards
 
 ---
+
+2022 AAAI student scholarship
 
 2016 ACM/ICPC Asian Regional, HongKong Onsite, **Gold Award, Problem A First Blood**
 

@@ -24,7 +24,7 @@ bio: My research interests include graph learning and recommender systems.
 interests:
 - Graph Learning
 - Recommender Systems
-- Machine Learning
+- Applied Machine Learning
 
 # Education to show in About widget
 education:
