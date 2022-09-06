@@ -32,6 +32,16 @@ experience:
     date_end: '2020-09-01'
     description: |2-
       My work concentrates on dealing with delayed feedback problem in conversion rate prediction task, and I focus on designing a feasible method for the taobao search engine.
+
+  - title: Research Intern
+    company: Search and Recommendation Group, Taobao, Alibaba
+    company_url: ''
+    company_logo: taobao
+    location: Hangzhou
+    date_start: '2022-07-01'
+    date_end: '2020-11-01'
+    description: |2-
+      Deep representation learning of user interests in E-Commerce search engine.
         
   # - title: Professor of Semiconductor Physics
   #   company: University X

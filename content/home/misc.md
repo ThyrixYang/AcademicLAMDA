@@ -17,7 +17,7 @@ design:
 
 ---
 
-Program Committee Member (PC member): AAAI'21, AAAI'22
+Program Committee Member (PC member): AAAI'21, AAAI'22, AAAI'23
 
 # Teaching Assistant
 
