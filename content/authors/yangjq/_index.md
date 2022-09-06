@@ -18,13 +18,20 @@ organizations:
   url: http://www.lamda.nju.edu.cn/MainPage.ashx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include graph learning and recommender systems.
+bio: An AI developer and practitioner.
 
 # Interests to show in About widget
 interests:
 - Graph Learning
+  - Graph neural networks
+  - Learning with dynamic graphs
 - Recommender Systems
-- Applied Machine Learning
+  - Learning with delayed feedback
+  - Personalized representation learning
+- Machine learning for science (ML4Sci)
+  - Inverse design of photonic devices
+  - ML based simulation accelerator
+
 
 # Education to show in About widget
 education:
