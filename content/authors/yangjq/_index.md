@@ -22,9 +22,9 @@ bio: An AI developer and practitioner.
 
 # Interests to show in About widget
 interests:
-- **Graph Learning** Graph neural networks, Learning with dynamic graphs.
-- **Recommender Systems** Learning with delayed feedback, Personalized representation learning.
-- **Machine learning for science (ML4Sci)** Inverse design of photonic devices, ML based simulation accelerator
+- Graph neural networks and learning with dynamic graphs.
+- Recommender Systems; Learning with delayed feedback and personalized representation learning.
+- Machine learning for science (ML4Sci); Inverse design of photonic devices.
 
 
 # Education to show in About widget
