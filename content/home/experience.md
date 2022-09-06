@@ -39,7 +39,7 @@ experience:
     company_logo: taobao
     location: Hangzhou
     date_start: '2022-07-01'
-    date_end: '2020-11-01'
+    date_end: '2022-11-01'
     description: |2-
       Deep representation learning of user interests in E-Commerce search engine.
         
