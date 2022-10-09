@@ -35,6 +35,14 @@ Advanced C++ Programming. Fall, 2018.
 
 2022 AAAI student scholarship
 
+2019 KDD cup 2019 (Humanity RL Track), **12/247**
+
+2018 Alibaba Global Scheduling Algorithm Competition, **Champion(1/2116)**
+
+2018 Huawei Code Craft, **Most Exquisite Code Award**
+
+2018 HackHarvard, **KENSHO prize**
+
 2016 ACM/ICPC Asian Regional, HongKong Onsite, **Gold Award, Problem A First Blood**
 
 2016 ACM/ICPC Asian Regional, East Continent Final, **Silver Award**
@@ -44,11 +52,3 @@ Advanced C++ Programming. Fall, 2018.
 2016 China Collegiate Programming Contest(CCPC), Changchun Onsite, **Silver Award**
 
 2015 ACM/ICPC Asian Regional, Shanghai Onsite, **Bronze Award**
-
-2018 Alibaba Global Scheduling Algorithm Competition, **Champion(1/2116)**
-
-2018 Huawei Code Craft, **Most Exquisite Code Award**
-
-2018 HackHarvard, **KENSHO prize**
-
-2019 KDD cup 2019 (Humanity RL Track), **12/247**
