@@ -31,6 +31,8 @@ Advanced C++ Programming. Fall, 2018.
 
 ---
 
+2022 NeurIPS Scholar Award 
+
 2022 AAAI student scholarship
 
 2016 ACM/ICPC Asian Regional, HongKong Onsite, **Gold Award, Problem A First Blood**
